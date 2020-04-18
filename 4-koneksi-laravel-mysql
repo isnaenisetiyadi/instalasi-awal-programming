@@ -1,0 +1,15 @@
+Buat dahulu database menggunakan phpmyadmin.
+Buka file .env melalui kode editor.
+kemudian edit bagian ini :
+
+B_CONNECTION=mysql              //default
+DB_HOST=127.0.0.1               //default
+DB_PORT=3306                    //default
+DB_DATABASE=crudvuelaravel      //disesuaikan nama database yang dibuat
+DB_USERNAME=root                //sesuaikan
+DB_PASSWORD=root                //MAMP menggunakan root, jika pakai XAMP kosongkan
+DB_SOCKET=/Applications/MAMP/tmp/mysql/mysql.sock
+
+Khusus kode DB_SOCKET ... 
+> ditambahkan bila menggunakan MacOS dan Linux
+> bila menggunakan Windows, tidak perlu menambah baris ini
