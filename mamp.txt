@@ -1,0 +1,6 @@
+1. dilaksanakan paling awal
+2. download file mamp, disitus resminya
+3. sekali download, terdapat mamp dan mamp pro. 
+4. mamp hanya bisa digunakan untuk 1 host saja.
+
+--> selanjutnya adalah install composer
