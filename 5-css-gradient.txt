@@ -1,0 +1,6 @@
+File ini hanya berisi bagaimana cara membuat latar gradient.
+
+1. kunjungi situs https://uigradients.com
+2. pilih warna yang dikehendaki, lali klik tombol Get css, copy code. 
+3. paste kode pada file css kita. 
+4. dan Greng, jadilah. hehe
