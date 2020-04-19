@@ -1,0 +1,4 @@
+Untuk melakukan penginstalan vue, maka dibutuhkan npm.
+Download dulu npm di nodejs.org
+tersedia untuk WIndows, Mac dan Linux
+
