@@ -1,0 +1,2 @@
+Dalam git, bila ingin melakuakan vcs pada semua file bisa menggunakan opsi berikut ini saat menambahkan ke stage
+git add . -f
