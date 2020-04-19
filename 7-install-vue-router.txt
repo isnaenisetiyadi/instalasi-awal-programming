@@ -1,0 +1,17 @@
+Cara yg digunakan adalah menggunakan npm. ada 2 cara lain penginstalan vue-router, silahkan lihat di router.vue.org.
+
+Sebelum menginstall pastikan dulu node js sudah terpasang pada komputer.
+Cara install :
+1. Pastikan kita sudah berada pada folder project (caranya dengan mengetik pwd pada terminal).
+2. Ketik: npm install vue-router.
+
+Bila berhasil, pada project kita akan tertambah :
+
+
+Dimodifikasi :
+    modified:   package.json
+	modified:   public/css/style.css
+	modified:   resources/views/homepage.blade.php
+
+Ditambahkan :
+    package-lock.json
