@@ -1,0 +1,9 @@
+Ini berguna untuk laravel < 7.x (dibawah versi 7)
+hal di bawah ini diakukan agar perintah npm run watch untuk mengkompile file javascript bisa dilakukan.
+
+
+1. composer self-update
+2. npm install
+3. npm install -dev
+4. npm run dev
+5. npm run watch 
