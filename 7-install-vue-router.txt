@@ -15,3 +15,21 @@ Dimodifikasi :
 
 Ditambahkan :
     package-lock.json
+
+Konfigurasi vue router :
+
+Buka file app.js pada resources (bukan di public)
+
+ISIKAN FILE INI :
+
+import Vue from 'vue'
+import VueRouter from 'vue-router'
+
+Vue.use(VueRouter)
+
+
+BUKA PADA FILE HTML ISIKAN INI :
+ <router-link to="/foo">Go to Foo</router-link>
+    <router-link to="/bar">Go to Bar</router-link>
+  
+  <router-view></router-view>

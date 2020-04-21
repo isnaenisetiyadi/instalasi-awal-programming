@@ -6,4 +6,5 @@ hal di bawah ini diakukan agar perintah npm run watch untuk mengkompile file jav
 2. npm install
 3. npm install -dev
 4. npm run dev
-5. npm run watch 
+5. npm run production
+6. npm run watch 

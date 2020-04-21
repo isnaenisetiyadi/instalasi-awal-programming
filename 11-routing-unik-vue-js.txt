@@ -1,0 +1,10 @@
+routing vue js terbilang unik.
+
+route pada file web hanya dibuat 
+
+Route:resource('/posts','PostController);
+
+semua perintah baik post maupun get hanya memanggil alamat ini (/posts) 
+maka secara otomatis akan memilih pada controller fungsi mana yang akan diambil.
+Bila post (entry data) maka akan mengambil fungsi store
+Bila get (mengambil data ) maka akan mengambil fungsi index

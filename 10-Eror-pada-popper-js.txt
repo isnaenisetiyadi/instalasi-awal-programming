@@ -1,0 +1,12 @@
+File popper.js.min.map tidak ditemukan akibat perintah npm run dev
+
+cara mengatasi, 
+buka file app.js layouts
+
+tambahkan kode ini :
+
+require('@popperjs/core');
+import { Popper } from 'popper.js';
+
+kemudian jalankan npm run dev lagi.
+beres
